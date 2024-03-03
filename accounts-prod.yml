@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Benki accounts related Prod APIs "
   contactDetails:
     name: "Stella Wambo - Product Owner"
-    email: "stella@benki.com"
+    email: "{cipher}22d81dff8b446816d3e69101f04ff6f19209e4e9a0b66b1f81fe5c08c15a547f9a1ec93fc7a197de84a3db007117f773"
   onCallSupport:
     - (254) 777-1234
     - (254) 777-1345
