@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Benki cards related webhook APIs "
+  message: "Welcome to Benki cards related docker APIs "
   contactDetails:
     name: "Stella Wambo - Product Owner"
     email: "stella@benki.com"
